@@ -1,0 +1,18 @@
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\Trabajo practico Integrador parte 1\obj\Debug\net8.0\Trabajo practico Integrador parte 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\Trabajo practico Integrador parte 1\obj\Debug\net8.0\Trabajo practico Integrador parte 1.AssemblyInfoInputs.cache
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\Trabajo practico Integrador parte 1\obj\Debug\net8.0\Trabajo practico Integrador parte 1.AssemblyInfo.cs
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\Trabajo practico Integrador parte 1\obj\Debug\net8.0\Trabajo practico Integrador parte 1.csproj.CoreCompileInputs.cache
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\bin\Debug\net8.0\Trabajo practico Integrador parte 1.exe
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\bin\Debug\net8.0\Trabajo practico Integrador parte 1.deps.json
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\bin\Debug\net8.0\Trabajo practico Integrador parte 1.runtimeconfig.json
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\bin\Debug\net8.0\Trabajo practico Integrador parte 1.dll
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\bin\Debug\net8.0\Trabajo practico Integrador parte 1.pdb
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\obj\Debug\net8.0\Trabajo practico Integrador parte 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\obj\Debug\net8.0\Trabajo practico Integrador parte 1.AssemblyInfoInputs.cache
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\obj\Debug\net8.0\Trabajo practico Integrador parte 1.AssemblyInfo.cs
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\obj\Debug\net8.0\Trabajo practico Integrador parte 1.csproj.CoreCompileInputs.cache
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\obj\Debug\net8.0\Trabajo practico Integrador parte 1.dll
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\obj\Debug\net8.0\refint\Trabajo practico Integrador parte 1.dll
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\obj\Debug\net8.0\Trabajo practico Integrador parte 1.pdb
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\obj\Debug\net8.0\Trabajo practico Integrador parte 1.genruntimeconfig.cache
+C:\Users\homer\Desktop\Trabajo practico integrador parte 1\obj\Debug\net8.0\ref\Trabajo practico Integrador parte 1.dll
