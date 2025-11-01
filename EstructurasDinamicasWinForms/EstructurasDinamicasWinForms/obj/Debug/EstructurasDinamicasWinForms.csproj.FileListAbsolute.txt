@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\EstructurasDinamicasWinForms\EstructurasDinamicasWinForms\obj\Debug\EstructurasDinamicasWinForms.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\EstructurasDinamicasWinForms\EstructurasDinamicasWinForms\obj\Debug\EstructurasDinamicasWinForms.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\EstructurasDinamicasWinForms\EstructurasDinamicasWinForms\obj\Debug\EstructurasDinamicasWinForms.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\EstructurasDinamicasWinForms\EstructurasDinamicasWinForms\obj\Debug\EstructurasDinamicasWinForms.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\EstructurasDinamicasWinForms\EstructurasDinamicasWinForms\bin\Debug\EstructurasDinamicasWinForms.exe.config
+C:\Users\USUARIO\source\repos\EstructurasDinamicasWinForms\EstructurasDinamicasWinForms\bin\Debug\EstructurasDinamicasWinForms.exe
+C:\Users\USUARIO\source\repos\EstructurasDinamicasWinForms\EstructurasDinamicasWinForms\bin\Debug\EstructurasDinamicasWinForms.pdb
+C:\Users\USUARIO\source\repos\EstructurasDinamicasWinForms\EstructurasDinamicasWinForms\obj\Debug\EstructurasDinamicasWinForms.exe
+C:\Users\USUARIO\source\repos\EstructurasDinamicasWinForms\EstructurasDinamicasWinForms\obj\Debug\EstructurasDinamicasWinForms.pdb
+C:\Users\USUARIO\source\repos\EstructurasDinamicasWinForms\EstructurasDinamicasWinForms\obj\Debug\EstructurasDinamicasWinForms.exe.config
